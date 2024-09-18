@@ -91,6 +91,14 @@ For this task I need to find the values of 'cyl' and 'gear' for the models 'Mazd
 
 With this code it was able to output the different values of the models:
 
-###  For the 'Mazda RX4 Wag' 
+###  For the 'Mazda RX4 Wag' it has 6 cylinders and 4 gears
+###  For the 'Ford Pantera L' it has 8 cylinders and 5 gears
+###  For the 'Honda Civic' it has 4 cylinders and 4 gears
+
+## What I learned
+
+### After doing this task I was able to utilize the different ways to extract the rows and columns from a given data frame. Using .iloc() I inputed the indexes that I need so that it would output what I need, and .loc() which is a more flexible way of finding specific elements as you only need the column name and element under that column to extract the data that you need from it. 
+
+
 
 
